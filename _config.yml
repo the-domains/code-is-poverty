@@ -1,0 +1,14 @@
+layout_spectrum: 0.3627919296268374
+typography_spectrum: 0.08190280781127512
+color:
+  brandStrength: 0.6472128527238965
+  lightness: 0.0662603413220495
+  saturation: 0.7315951129421592
+  rhythmicContrast: 0.45325951697304845
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Code is Poverty
